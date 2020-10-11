@@ -8,6 +8,8 @@ So a hello world Python script could be listed at:
 If the file is using a specific framework (such as NodeJS) then use the format `the-code-land/languagename/frameworkname/scriptname`
 Example: `javascript/nodejs/hello_world.python`
 
+For frameworks, you may want to add a README.md file explaining the installation of said framework.
+
 Name files in `snake_case`.
 
 ## Things to not do
