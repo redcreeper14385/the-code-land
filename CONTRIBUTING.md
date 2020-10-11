@@ -5,6 +5,11 @@ This repository is meant to be structured in the following way:
 So a hello world Python script could be listed at:
 `python/hello_world.python`.
 
+If the file is using a specific framework (such as NodeJS) then use the format `the-code-land/languagename/frameworkname/scriptname`
+Example: `javascript/nodejs/hello_world.python`
+
+Name files in `snake_case`.
+
 ## Things to not do
 Please don't:
 - Make a tiny change and PR it.
