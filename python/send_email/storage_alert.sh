@@ -1,6 +1,6 @@
 #!/bin/bash
 CURRENT=$(df / | grep / | awk '{ print $5}' | sed 's/%//g')
-THRESHOLD=5
+THRESHOLD=75
 SUBJECT="Storage Alert For YOUR Server"
 MESSAGE="Storage is runnig low. Current Storage is ${CURRENT}"
 
