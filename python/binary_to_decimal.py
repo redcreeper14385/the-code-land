@@ -1,6 +1,6 @@
 #convert binary number to a decimal number
 
-def binaryToDecimal(binary): 
+def binary_To_Decimal(binary): 
       
     binary1 = binary 
     decimal = i = n = 0
@@ -13,4 +13,4 @@ def binaryToDecimal(binary):
       
 if __name__ == '__main__': 
     x = int(input("Enter a binary number: "))
-    binaryToDecimal(x)
+    binary_To_Decimal(x)
