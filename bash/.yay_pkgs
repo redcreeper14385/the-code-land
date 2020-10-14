@@ -1,0 +1,13 @@
+networkmanager
+spectacle
+discord
+plasma
+docker
+code-bin
+firefox
+wayland
+
+# IF USING THIS FILE, DELETE THIS LINE AND EVERYTHING UNDER IT
+
+# Use this file as a keyword list for yay package updates notifications
+# More info in this repo in bash/yay_pkg_update_notifications.sh file
