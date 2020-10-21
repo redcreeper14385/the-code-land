@@ -23,6 +23,8 @@ We would now like to print out the tree to see if our structure performs the way
 Let the binary tree be represented as root(T1,T2); where T1 is the right subtree and T2 is the left subtree of the root node.
 Let  the defined function be `to_string()`
 
+---IMPORTANT---
+
 We shall represent root(T1,T2) as "( " + to_string(T1) + " ) " + to_string(T2) 
 
 This seems absurd at first, wouldn't either of the two methods shown below seem more simple and elagant?
